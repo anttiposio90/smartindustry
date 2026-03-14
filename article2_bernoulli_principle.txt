@@ -1,0 +1,17 @@
+THE BERNOULLI PRINCIPLE AND AIRPLANE FLIGHT
+
+One of the key principles used to explain airplane lift is the Bernoulli
+principle. It states that when the speed of a fluid increases, its
+pressure decreases.
+
+Airplane wings are designed so that air flows faster across the curved
+top surface than underneath the wing. Because the air above the wing
+moves faster, the pressure there becomes lower than the pressure below
+the wing.
+
+This pressure difference produces an upward force known as lift. Lift
+allows airplanes to rise off the ground and stay in the air during
+flight.
+
+Understanding the Bernoulli principle is essential for studying
+aerodynamics and the physics of aviation.

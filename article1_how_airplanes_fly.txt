@@ -1,0 +1,20 @@
+HOW AIRPLANES FLY
+
+Airplanes fly based on the principles of aerodynamics. The movement of
+air around the aircraft generates four important forces that determine
+whether the plane can stay in the air.
+
+The four forces of flight are:
+
+1.  Lift – the force that pushes the aircraft upward.
+2.  Weight – the gravitational force pulling the aircraft downward.
+3.  Thrust – the forward force produced by engines or propellers.
+4.  Drag – the resistance caused by air moving around the aircraft.
+
+For an airplane to fly, lift must be greater than weight, and thrust
+must be greater than drag. Wings are shaped so that air moves faster
+over the top than underneath. This difference in air pressure produces
+lift.
+
+Engines provide thrust, while the tail and control surfaces stabilize
+and steer the aircraft.

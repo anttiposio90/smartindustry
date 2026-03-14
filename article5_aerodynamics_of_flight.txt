@@ -1,0 +1,16 @@
+AERODYNAMICS OF FLIGHT
+
+Heavier-than-air flight depends on balancing several forces. For an
+aircraft to fly steadily, lift must balance its weight and thrust must
+overcome drag.
+
+Wings generate lift by redirecting airflow downward and creating
+pressure differences around the airfoil shape. Engines produce thrust
+that pushes the aircraft forward through the air.
+
+Drag is reduced by smooth aircraft design and efficient wing shapes.
+Engineers carefully design aircraft structures and materials to keep
+weight low while maintaining strength.
+
+The balance of these forces allows aircraft to take off, cruise through
+the air, and land safely.
